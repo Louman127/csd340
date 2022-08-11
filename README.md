@@ -1,2 +1,9 @@
 # csd340
 csd340(august)
+
+# CSD 340 Web Development with HTML and CSS
+
+## Contributors
+
+* Sue Sampson
+* Louis Thiemann
