@@ -1,0 +1,60 @@
+html, body{
+    
+    /*font-family:  "Oswald", "Quattrocento", serif;*/
+    /*font-weight: 300;*/
+    font-size: 16px;
+    color:black;
+}
+
+p{
+    font-family: 'Quattrocento', Georgia, 'Times New Roman', serif;
+    font-weight: 400px;
+    line-height: 1.4em;
+}
+
+h1{
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    font-weight: 700px;
+    font-size: 3.052em;
+    word-spacing: .5em;
+    margin: 0px;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+h2{
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    font-weight: 500px;
+    font-size: 2.441em;
+    word-spacing: .2em;
+    margin: 0px;
+    text-align: left;
+    padding-top: 15px;
+}
+address{
+    font-family: 'Quattrocento', Georgia, "Times New Roman", serif;
+    text-align: center;
+
+}
+#bel{
+    font-size: 1.25em;
+    font-weight: bold;
+    color: #4F3674;
+    text-decoration: none;
+    
+}
+#bel:hover{
+    text-decoration: underline;
+    background-color: #D6A800;
+}
+#bel:visited{
+    background-color: blue;
+}
+.sentence{
+    font-style: italic;
+
+}
+.intro{
+    text-indent: .2em;
+}
