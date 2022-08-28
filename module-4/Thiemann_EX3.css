@@ -1,0 +1,84 @@
+/* 
+Louis Thiemann
+CSD 340 - 306H
+08/28/22
+Assignment 4.3
+*/
+
+/*html, body{
+    
+}*/
+
+h1{
+    text-align: center;
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+}
+
+h3{
+    font-weight: 500;
+}
+
+ul{
+    list-style-type: upper-roman;
+    font-weight: 300;
+    border-style: dashed;
+    border-width: 1px;
+    padding: 10px;
+    list-style-position: inside;
+    border-color: red;
+    border-radius: 15px;
+}
+
+ol{
+    font-weight: 300;
+    border-style: solid;
+    list-style-position: inside;
+    border-width: 1px;
+    padding: 10px;
+    border-radius: 15px;
+    border-color: red;
+}
+
+#leftDiv{
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    width: 45%;
+    float: left;
+}
+
+#rightDiv{
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    width: 45%;
+    float: right;    
+}
+
+#newDiv{
+    width: 100%;
+    margin-top: 60%;
+}
+
+#lastDiv{
+    width: 100%;
+    margin-top: 60%;
+    float: right;
+    margin-bottom: 20px;
+}
+
+#toTop{
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    float: right;
+    text-decoration: none;
+}
+
+#nint{
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    text-decoration: none;
+}
+
+#nint:hover{
+    text-decoration: underline;
+}
+
+#toTop:hover{
+    text-decoration: underline;
+}
+
