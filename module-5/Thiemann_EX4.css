@@ -1,0 +1,86 @@
+body{
+    background-color: rgba(247, 112, 24, 20%);
+    font-family: 'Oswald','Verdana', Arial, sans-serif;
+}
+
+#container{
+    text-align: center;  
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(185, 63, 8);
+}
+
+h3{
+    text-align: center;
+    background-color: rgb(185, 63, 8);
+}
+
+figcaption{
+    text-align: center;
+    font-size: .75em;
+    font-style: italic;
+    background-color: rgb(185, 63, 8);
+}
+figure{
+    border-style: solid;
+    border-color: rgb(185, 63, 8);
+    border-radius: 15px;
+}
+
+#image-gallery{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 10%;
+    padding: 5px;
+}
+
+#img_1{
+    padding: 5px;   
+}
+
+#img_2{
+    padding: 5px;
+    margin-left: -90px;
+    margin-right: -90px;
+}
+
+#img_3{
+    padding: 5px;
+}
+
+#bear{
+    max-width: 300px;
+    height: 420px;
+}
+
+#threebears{
+    max-width: 279.5px;
+    height: 420px;
+}
+
+#puppy{
+    max-width: 292.5px;
+    height: 420px;    
+}
+
+#landingDiv{
+    margin-left: 600px;
+    width: 100%;
+    margin-top: 10%;
+    float: right;
+    margin-bottom: 20px;
+}
+
+#lands{
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    float: right;
+    text-decoration: none;
+}
+
+#lands:hover{
+    text-decoration: underline;
+}
+
+
