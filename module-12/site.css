@@ -1,0 +1,169 @@
+body{
+    background-color: rgb(109, 109, 109);
+
+}
+
+#menuBar{
+    margin-top: 20px;
+    /*background-color: rgb(101, 61, 61);*/
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 50%;
+    /*box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.2);*/
+}
+#menuBar a{
+    color: white;
+    background-color: rgb(3, 41, 129);
+    padding: 7px;
+    border-radius: 10px;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.2);
+
+}
+
+header{
+    background-color: rgb(101, 61, 61);
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.2);
+    color: white;
+}
+
+#container{
+    color: white;
+    background-color: rgb(156, 181, 170);
+    border-radius: 50px;
+    width: 620px;
+    margin-top: 20px;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.2);
+    
+
+}
+
+#hobbies{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    padding: 20px;
+    
+}
+
+#column1{
+    padding-right: 20px;
+    
+    
+    
+
+}
+
+#column2{
+    padding-right: 20px;
+
+}
+
+#column3{
+    padding-right: 20px;
+
+}
+
+#column4{
+    padding-right: 20px;
+    
+
+}
+
+#column5{
+    padding-right: 20px;
+
+}
+
+#column6{
+    padding-right: 20px;
+
+}
+
+.card-title{
+    padding: 20px;
+    
+}
+
+#experience{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    
+    
+}
+
+#contact{
+
+}
+
+footer{
+    margin-top: 20px;
+    background-color: rgb(101, 61, 61);
+    padding: 20px;
+    /*
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 10px;
+    */
+    border-radius: 10px;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.2);
+    color: white;
+    
+}
+
+#button_message{
+    padding: 12px;
+    margin-left: 20px;
+    margin-bottom: 40px;
+    border-radius: 20px;
+    /*box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.2);*/
+    background-color: rgb(73, 78, 152);
+    /*background-color: rgba(34, 46, 217, 0.486);*/
+    border: none;
+    color: white;
+    transition: .4s;
+}
+
+
+#button_message:hover{
+    background-color: rgba(73, 78, 152, .8);
+    /*background-color: rgb(73, 78, 152);*/
+    transition: .4s;
+
+
+}
+
+#button_message:active{
+    background-color: rgb(54, 58, 113);
+    transition: .4s;
+}
+
+#hobby_statement{
+    display:block; 
+    margin-left: 30px;
+    padding-top: 20px;
+    font-size: xx-large;
+    margin-bottom: -20px;
+    text-decoration: underline;
+
+}
+
+
+#mePicture img{
+    display: inline;
+    max-width: 30%;
+    margin-left: 220px;
+    border-radius: 40px;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, .4);
+}
+
+#this_here{
+    font-size: xx-large;
+    
+    color: white;
+    font-style: italic;
+    margin-top: 20px;
+    margin-left: 20px;
+}
